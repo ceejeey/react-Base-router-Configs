@@ -1,12 +1,15 @@
 <<<<<<< HEAD
+Starter Base-React project that includes react-router-dom v6 powered by vite.
+
 # Tooling
 
 <!-- - husky -->
   <!-- - ts-configs  -->
   <!-- - vite-config -->
+
 - react-router
-<!-- - PR template -->
-<!-- - Issue Template -->
+  <!-- - PR template -->
+  <!-- - Issue Template -->
 
 # Lints
 
@@ -25,7 +28,8 @@
 # Testing
 
 - jest setup / configs
-- react-testing library
-=======
+- # react-testing library
+
 # react-Base-router-Configs
->>>>>>> 496ac22634059078cc4be5d0cee0718c24380126
+
+> > > > > > > 496ac22634059078cc4be5d0cee0718c24380126
