@@ -1,6 +1,6 @@
-# Decription
+# Base-React-Router-Configs
 
-Starter Base-React project that includes react-router-dom v6 powered by vite.
+Starter Base-React project that includes Base-Reactv6 powered by vite.
 
 # Tooling
 
